@@ -1,0 +1,10 @@
+C:\Users\yaojingyu\source\repos\QuicklyUICode\QuicklyUICode\obj\Debug\QuicklyUICode.Form1.resources
+C:\Users\yaojingyu\source\repos\QuicklyUICode\QuicklyUICode\obj\Debug\QuicklyUICode.csproj.GenerateResource.cache
+C:\Users\yaojingyu\source\repos\QuicklyUICode\QuicklyUICode\obj\Debug\QuicklyUICode.csprojAssemblyReference.cache
+C:\Users\yaojingyu\Desktop\快速生成UICode\QuicklyUICode.exe.config
+C:\Users\yaojingyu\Desktop\快速生成UICode\QuicklyUICode.exe
+C:\Users\yaojingyu\Desktop\快速生成UICode\QuicklyUICode.pdb
+C:\Users\yaojingyu\source\repos\QuicklyUICode\QuicklyUICode\obj\Debug\QuicklyUICode.Properties.Resources.resources
+C:\Users\yaojingyu\source\repos\QuicklyUICode\QuicklyUICode\obj\Debug\QuicklyUICode.csproj.CoreCompileInputs.cache
+C:\Users\yaojingyu\source\repos\QuicklyUICode\QuicklyUICode\obj\Debug\QuicklyUICode.exe
+C:\Users\yaojingyu\source\repos\QuicklyUICode\QuicklyUICode\obj\Debug\QuicklyUICode.pdb
